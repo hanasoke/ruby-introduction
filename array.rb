@@ -17,7 +17,7 @@
 # puts "Length of arr is: #{nakano.length}"
 
 # creating string using []
-nakano = ["miku", "yotsuba", "ichika", "nino", "itsuki"]
+# nakano = ["miku", "yotsuba", "ichika", "nino", "itsuki"]
 
 # accessing array elements
 # using index
