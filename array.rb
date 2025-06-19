@@ -1,11 +1,11 @@
-# itsuki = Array.new()
-# yotsuba = Array.new(8, "Yotsuba");
-# miku = Array.new(3, "ITC")
-# puts itsuki.size 
-# puts yotsuba.length
-# puts miku.size
-# puts "#{miku}"
-# puts "#{yotsuba}"
+itsuki = Array.new()
+yotsuba = Array.new(8, "Yotsuba");
+miku = Array.new(3, "ITC")
+puts itsuki.size 
+puts yotsuba.length
+puts miku.size
+puts "#{miku}"
+puts "#{yotsuba}"
 
 # creating array of characters
 # nakano = Array['miku', 'yotsuba', 'ichika', 'itsuki', 'nino']
